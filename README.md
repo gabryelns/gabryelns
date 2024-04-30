@@ -19,4 +19,4 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabryelns&show_icons=true)
+![gabryelns GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryelns&show_icons=true&theme=tokyonight)
